@@ -10,3 +10,4 @@ CREATE TABLE movies (
   released_at TIMESTAMP,
   score INT(3, 1)
 );
+-- test
